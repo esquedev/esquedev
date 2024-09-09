@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @esquedev a mexican Software Developer navigating through a 30's adulthood life crisis with tons of style
+- 👀 I’m interested in GPU's, Big Data, Artificial Intelligence, Operative Systems, computers in general, 0's, and 1's
+- 🌱 I’m currently learning how to make more money with Freelance Projects
+- 💞️ I’m looking to collaborate on anything that seems challenging and fun
+- 📫 How to reach me: Smoke Signals or a Pull Request with and unintelligible commit message!
+- 😄 Pronouns: Threads per Core
+- ⚡ Fun fact: I work as a Big Data Engineer but majored in Chemistry xD
